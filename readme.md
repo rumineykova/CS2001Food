@@ -4,7 +4,7 @@
 ![](https://miro.medium.com/max/1042/1*e0kwuCoRjPqP_DkcZwGTtQ.png)
 
 #### Test the application
-(Note that the application expect that you have a database scheme already creted, with at least one table, named test, and having a coumn name that is of type VARCHAR(10))
+(Note that the application expects that you have a database scheme already created, with at least one table, named ```test```, and having a column ```name``` that is of type VARCHAR(10))
 1. Run the Web server 
     1. Open the FoodServer in eclipse
     2. Renam the db.properties.template to db.properties
