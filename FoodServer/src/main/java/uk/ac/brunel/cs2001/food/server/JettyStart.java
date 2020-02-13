@@ -15,7 +15,7 @@ public class JettyStart
         Server server = new Server();
         // Replace localhost with the ip address of your machine,
         // you can check the IP address using the ipconfig command
-        server.addListener("localhost:8080");       
+        server.addListener("192.168.48.80:8080");       
         ServletHttpContext context = (ServletHttpContext) server.getContext("/");
 
         // These lines register the servlet defined in the specified class at the specified context

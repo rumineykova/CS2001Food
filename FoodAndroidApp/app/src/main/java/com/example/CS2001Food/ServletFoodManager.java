@@ -45,7 +45,7 @@ public class ServletFoodManager implements FavouriteFoodManager {
             URL url = null;
             try {
                 //url = new URL("http://" + IP + "/JDBC");
-                url = new URL("http://192.168.0.11:8080/JDBC");
+                url = new URL("http://192.168.48.80:8080/Hello");
             } catch (MalformedURLException e) {
                 e.printStackTrace();
             }

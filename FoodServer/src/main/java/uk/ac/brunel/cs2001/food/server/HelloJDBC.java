@@ -53,7 +53,7 @@ public class HelloJDBC extends HttpServlet
     {
         httpServletResponse.setContentType("text/plain");
         PrintWriter out = httpServletResponse.getWriter();
-        out.println(httpServletRequest.getPathInfo());
+        //out.println(httpServletRequest.getPathInfo());
         out.println(pullDataFromDatabase());
         out.close();
     }
