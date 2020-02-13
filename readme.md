@@ -1,4 +1,4 @@
-A simple application that demonstrate Android + MySQL + Restful Web service
+## A simple application that demonstrate Android + MySQL + Restful Web service
 
 1. Test the server 
     1. Open the FoodServer in eclipse
