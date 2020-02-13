@@ -1,7 +1,9 @@
 ## A simple application that demonstrate Accessing MySQL database from Android through RESTful Web Service
-The overall architecture is as follows 
+#### The overall architecture is as follows 
 
 ![](https://miro.medium.com/max/1042/1*e0kwuCoRjPqP_DkcZwGTtQ.png)
+
+#### Test the application
 1. Run the Web server 
     1. Open the FoodServer in eclipse
     2. Renam the db.properties.template to db.properties
